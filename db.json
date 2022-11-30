@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "stream",
+      "id": 15
+    },
+    {
+      "title": "test2",
+      "description": "stream2",
+      "id": 16
+    },
+    {
+      "title": "My Stream",
+      "description": "first stream",
+      "id": 17
+    },
+    {
+      "description": "Best stream",
+      "title": "New Stream",
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    }
+  ]
+}
