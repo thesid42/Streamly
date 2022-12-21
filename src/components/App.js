@@ -14,7 +14,7 @@ const App = () => {
         <div>
           <Header />
           <Switch>
-            {/* Switch will go through all the routes in our filee and only select each link for that perticular route */}
+            {/* Switch will go through all the routes in our file and only select each link for that perticular route */}
             <Route path="/" exact component={StreamList} />
             <Route path="/streams/new" exact component={StreamCreate} />
             <Route path="/streams/edit/:id" exact component={StreamEdit} />
